@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+  <img alt="Tosik's GitHub stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tosik543&show_icons=true&theme=tokyonight" />
+  <img alt="Tosik's Top Langs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tosik543&layout=compact&theme=tokyonight" />
+</div>
 
 <!--
 **Tosik543/Tosik543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
